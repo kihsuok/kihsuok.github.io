@@ -1,2 +1,2 @@
-# kihsuok.github.io
+# koush.github.io
 My first website
